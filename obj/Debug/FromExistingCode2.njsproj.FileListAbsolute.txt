@@ -1,3 +1,0 @@
-E:\netProjects\strml.net\obj\Debug\FromExistingCode2.njsprojResolveAssemblyReference.cache
-E:\netProjects\strml.net\obj\Debug\FromExistingCode2.njsproj.CoreCompileInputs.cache
-E:\netProjects\strml.net\bin\Microsoft.NodejsTools.WebRole.dll
